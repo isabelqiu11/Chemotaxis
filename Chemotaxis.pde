@@ -1,6 +1,6 @@
  
  //declare bacteria variables here   
- Bacteria [] bobs = new Bacteria[1000];
+ Bacteria [] bobs = new Bacteria[600];
  void setup()   
  {     
    //initialize bacteria variables here  
